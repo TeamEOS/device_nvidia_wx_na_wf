@@ -1,6 +1,6 @@
-Copyright 2015 - TeamEOS
+**Copyright 2015 - TeamEOS**
 
-Device configuration for Nvidia Shield Tablet (Wi-fi Only).
+## Device configuration for Nvidia Shield Tablet (Wi-fi Only).
 
 =====================================
 
@@ -19,4 +19,4 @@ Camera  | 5 MP, 2592 х 1944 pixels
 Release Date | July 2014
 
 
-![Nvidia Shield Tablet](http://http://cdn1.xda-developers.com/devdb/deviceForum/screenshots/3454/20140820T055736.png "Nvidia Shield Tablet")
+<img src="http://cdn1.xda-developers.com/devdb/deviceForum/screenshots/3454/20140820T055736.png">
